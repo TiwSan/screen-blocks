@@ -1,0 +1,66 @@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        *
+        {
+
+           margin:0px;
+        }
+
+    </style>
+</head>
+<body>
+    <div style="height:100px;background-color:blueviolet;">
+        <div style="height:100px;width:50%;float:left;background-color:brown;">
+            header part-1
+            
+        </div>
+        <div style="height:100px;width:50%;float:right;background-color:chocolate;">
+            header part2
+
+        </div>
+
+    </div>
+
+    <div style="height:400px;background-color:cornflowerblue;">
+        <div style="height:400px;width:332px;float:left;background-color:crimson;">
+            mid part-1
+
+        </div>
+        <div style="height:400px;width:332px;float:left;background-color:cyan;">
+            mid part-2
+
+        </div>
+        <div style="height:400px;width:332px;float:left;background-color:darkblue;">
+            mid part-3
+
+        </div>
+        
+    </div>
+
+    <div style="height:100px;background-color:blueviolet;">
+        <div style="height:100px;width:50%;float:left;background-color:brown;">
+            footer part-1
+
+        </div>
+        <div style="height:100px;width:50%;float:right;background-color:chocolate;">
+            footer part2
+
+        </div>
+
+    </div>
+
+
+    
+
+</body>
+</html>
